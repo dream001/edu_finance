@@ -3,7 +3,6 @@ package com.edu.finance.framework.exception;
 /**
  * 基础不受检异常
  * 
- * @author zll
  *
  */
 public class BaseRuntimeException extends RuntimeException {

@@ -19,7 +19,6 @@ import com.edu.finance.util.Toolkit;
 /**
  * 向外提供的api父类
  * 
- * @author jiwla
  *
  */
 public class APIController {

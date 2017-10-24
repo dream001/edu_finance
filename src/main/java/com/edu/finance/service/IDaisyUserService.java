@@ -5,7 +5,6 @@ import com.edu.finance.model.DaisyUserVO;
 /**
  * 
  * 用户(租户)服务
- * @author jiwenlong
  *
  */
 public interface IDaisyUserService {

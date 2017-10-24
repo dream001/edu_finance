@@ -2,7 +2,6 @@ package com.edu.finance.framework.exception;
 
 /**
  * 转换异常
- * @author zll
  *
  */
 public class ConvertException extends BaseRuntimeException {

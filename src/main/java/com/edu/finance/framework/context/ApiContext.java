@@ -3,7 +3,6 @@ package com.edu.finance.framework.context;
 /**
  * 
  * 访问接口的上下文
- * @author jiwenlong
  *
  */
 public class ApiContext {

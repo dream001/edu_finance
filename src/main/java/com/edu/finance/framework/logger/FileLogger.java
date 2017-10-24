@@ -10,7 +10,6 @@ import com.edu.finance.util.Toolkit;
 /**
  * 
  * 单独生成日志文件
- * @author jiwenlong
  *
  */
 public class FileLogger {

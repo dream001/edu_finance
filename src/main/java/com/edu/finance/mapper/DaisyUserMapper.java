@@ -8,7 +8,6 @@ import com.edu.finance.model.DaisyUserVO;
 
 /**
  * 用户(租户)mapper
- * @author jiwenlong
  *
  */
 public interface DaisyUserMapper {

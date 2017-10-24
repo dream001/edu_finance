@@ -18,7 +18,6 @@ import com.edu.finance.util.Toolkit;
 
 /**
  * api调用拦截
- * @author jiwenlong
  *
  */
 public class APIInterceptor extends HandlerInterceptorAdapter {

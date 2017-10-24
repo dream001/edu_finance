@@ -10,7 +10,6 @@ import java.net.URL;
 
 /**
  * 读取类路径下的文件工具类
- * @author zll
  *
  */
 public class ClassPathFileUtil {

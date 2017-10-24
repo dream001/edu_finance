@@ -5,7 +5,6 @@ import com.edu.finance.util.mybatis.SqlSessionUtil;
 /**
  * 
  * 基础服务
- * @author jiwenlong
  *
  */
 public abstract class BaseService{
